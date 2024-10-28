@@ -6,7 +6,7 @@ scipy==1.9.3                # For scientific computing
 
 # AI and Machine Learning
 tensorflow==2.11.0          # For deep learning (if using TensorFlow)
-torch==1.13.0               # For deep learning (if using PyTorch)
+torch==2.2.0               # For deep learning (if using PyTorch)
 joblib==1.2.0               # For saving and loading models
 
 # Quantum Computing
