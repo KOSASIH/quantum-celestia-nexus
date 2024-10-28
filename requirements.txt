@@ -14,7 +14,7 @@ qiskit==0.39.1              # For quantum computing simulations and algorithms
 pennylane==0.24.0           # For quantum machine learning
 
 # Secure Communication
-cryptography==38.0.1        # For encryption and secure communication
+cryptography==43.0.1        # For encryption and secure communication
 pycryptodome==3.15.0        # For cryptographic functions
 requests==2.28.1            # For making HTTP requests (if needed for communication)
 
