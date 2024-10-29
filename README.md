@@ -35,6 +35,20 @@
 [![Microsoft Certified: Azure Data Scientist Associate](https://img.shields.io/badge/Azure%20Data%20Scientist%20Associate-Certified-0078D4?style=flat&logo=microsoft)](https://learn.microsoft.com/en-us/certifications/azure-data-scientist/)
 [![Certified Blockchain Professional (CBP)](https://img.shields.io/badge/CBP-Certified-4B0082?style=flat&logo=blockchain)](https://www.certifiedblockchainprofessional.com/)
 [![Certified Information Security Manager (CISM)](https://img.shields.io/badge/CISM-Certified-0072C6?style=flat&logo=isaca)](https://www.isaca.org/credentialing/cism)
+[![Project Management Professional (PMP)](https://img.shields.io/badge/PMP-Certified-0072B1?style=flat&logo=pmi)](https://www.pmi.org/certifications/project-management-pmp)
+[![Certified Information Systems Security Professional (CISSP)](https://img.shields.io/badge/CISSP-Certified-8A2BE2?style=flat&logo=isc2)](https://www.isc2.org/Certifications/CISSP)
+[![AWS Certified Solutions Architect - Associate](https://img.shields.io/badge/AWS%20Certified%20Solutions%20Architect%20-%20Associate-FF9900?style=flat&logo=amazonaws)](https://aws.amazon.com/certification/certified-solutions-architect-associate/)
+[![Certified Data Professional (CDP)](https://img.shields.io/badge/CDP-Certified-0072C6?style=flat&logo=dam)](https://www.dama.org/certification/certified-data-professional)
+[![Certified Information Privacy Technologist (CIPT)](https://img.shields.io/badge/CIPT-Certified-FFB300?style=flat&logo=IAPP)](https://iapp.org/certify/cipt/)
+[![ITIL 4 Foundation](https://img.shields.io/badge/ITIL%204%20Foundation-Certified-5B8DF1?style=flat&logo=itil)](https://www.axelos.com/certifications/itil-4-foundation)
+[![Certified in Risk and Information Systems Control (CRISC)](https://img.shields.io/badge/CRISC-Certified-FF6F20?style=flat&logo=isaca)](https://www.isaca.org/credentialing/crisc)
+[![Certified Business Analysis Professional (CBAP)](https://img.shields.io/badge/CBAP-Certified-0072C6?style=flat&logo=IIBA)](https://www.iiba.org/certification/cbap/)
+[![Certified Six Sigma Green Belt (CSSGB)](https://img.shields.io/badge/CSSGB-Certified-00BFFF?style=flat&logo=asq)](https://asq.org/cert/six-sigma-green-belt)
+[![Certified Supply Chain Professional (CSCP)](https://img.shields.io/badge/CSCP-Certified-FF9900?style=flat&logo=apics)](https://www.apics.org/credentials-education/credentials/cscp)
+[![Certified Information Systems Manager (CISM)](https://img.shields.io/badge/CISM-Certified-0072C6?style=flat&logo=isaca)](https://www.isaca.org/credentialing/cism)
+[![Certified Quality Auditor (CQA)](https://img.shields.io/badge/CQA-Certified-FFB300?style=flat&logo=asq)](https://asq.org/cert/quality-auditor)
+[![Certified Information Security Manager (CISM)](https://img.shields.io/badge/CISM-Certified-0072C6?style=flat&logo=isaca)](https://www.isaca.org/credentialing/cism)
+[![Certified in the Governance of Enterprise IT (CGEIT)](https://img.shields.io/badge/CGEIT-Certified-FF6F20?style=flat&logo=isaca)](https://www.isaca.org/credentialing/cgeit)
 
 <p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://github.com/KOSASIH/quantum-celestia-nexus/tree/main">Quantum Celestia Nexus</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://www.linkedin.com/in/kosasih-81b46b5a">KOSASIH</a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">Creative Commons Attribution 4.0 International<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""></a></p>
 
