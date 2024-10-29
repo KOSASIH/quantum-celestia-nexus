@@ -129,6 +129,25 @@
 [![AWS Certified Solutions Architect](https://img.shields.io/badge/AWS%20Certified%20Solutions%20Architect-Certified-FF9900?style=flat&logo=amazonaws)](https://aws.amazon.com/certification/certified-solutions-architect-associate/)
 [![Microsoft Certified: Azure Solutions Architect Expert](https://img.shields.io/badge/Azure%20Solutions%20Architect%20Expert-Certified-0078D4?style=flat&logo=microsoft)](https://learn.microsoft.com/en-us/certifications/azure-solutions-architect/)
 
+[![Harvard University](https://img.shields.io/badge/Harvard%20University-Open%20Courses-9B0000?style=flat&logo=harvard)](https://online-learning.harvard.edu/)
+[![MIT OpenCourseWare](https://img.shields.io/badge/MIT%20OpenCourseWare-Free%20Courses-8C1515?style=flat&logo=mit)](https://ocw.mit.edu/)
+[![Stanford University](https://img.shields.io/badge/Stanford%20University-Online%20Courses-9B0000?style=flat&logo=stanford)](https://online.stanford.edu/)
+[![University of California, Berkeley](https://img.shields.io/badge/UC%20Berkeley-Online%20Courses-007A33?style=flat&logo=ucberkeley)](https://www.berkeley.edu/)
+[![University of Oxford](https://img.shields.io/badge/University%20of%20Oxford-Online%20Courses-9B0000?style=flat&logo=oxford)](https://www.ox.ac.uk/)
+[![University of Cambridge](https://img.shields.io/badge/University%20of%20Cambridge-Online%20Courses-9B0000?style=flat&logo=cambridge)](https://www.cam.ac.uk/)
+[![Columbia University](https://img.shields.io/badge/Columbia%20University-Online%20Courses-003DA5?style=flat&logo=columbia)](https://www.columbia.edu/)
+[![University of Toronto](https://img.shields.io/badge/University%20of%20Toronto-Online%20Courses-003DA5?style=flat&logo=utoronto)](https://www.utoronto.ca/)
+[![Duke University](https://img.shields.io/badge/Duke%20University-Online%20Courses-003DA5?style=flat&logo=duke)](https://www.duke.edu/)
+[![University of Michigan](https://img.shields.io/badge/University%20of%20Michigan-Online%20Courses-007A33?style=flat&logo=umich)](https://umich.edu/)
+[![Georgia Institute of Technology](https://img.shields.io/badge/Georgia%20Tech-Online%20Courses-00A3E0?style=flat&logo=georgiatech)](https://www.gatech.edu/)
+[![University of Illinois at Urbana-Champaign](https://img.shields.io/badge/UIUC-Online%20Courses-DA5B2D?style=flat&logo=illinois)](https://illinois.edu/)
+[![University of Washington](https://img.shields.io/badge/University%20of%20Washington-Online%20Courses-9B0000?style=flat&logo=uw)](https://www.washington.edu/)
+[![University of Edinburgh](https://img.shields.io/badge/University%20of%20Edinburgh-Online%20Courses-9B0000?style=flat&logo=edinburgh)](https://www.ed.ac.uk/)
+[![University of Queensland](https://img.shields.io/badge/University%20of%20Queensland-Online%20Courses-007A33?style=flat&logo=uq)](https://www.uq.edu.au/)
+[![National University of Singapore](https://img.shields.io/badge/NUS-Online%20Courses-FF0000?style=flat&logo=nus)](https://www.nus.edu.sg/)
+[![University of Southern California](https://img.shields.io/badge/USC-Online%20Courses-9B0000?style=flat&logo=usc)](https://www.usc.edu/)
+[![Purdue University](https://img.shields.io/badge/Purdue%20University-Online%20Courses-9B0000?style=flat&logo=purdue)](https://www.purdue.edu/)
+
 <p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://github.com/KOSASIH/quantum-celestia-nexus/tree/main">Quantum Celestia Nexus</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://www.linkedin.com/in/kosasih-81b46b5a">KOSASIH</a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">Creative Commons Attribution 4.0 International<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""></a></p>
 
 # quantum-celestia-nexus
