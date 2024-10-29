@@ -49,6 +49,23 @@
 [![Certified Quality Auditor (CQA)](https://img.shields.io/badge/CQA-Certified-FFB300?style=flat&logo=asq)](https://asq.org/cert/quality-auditor)
 [![Certified Information Security Manager (CISM)](https://img.shields.io/badge/CISM-Certified-0072C6?style=flat&logo=isaca)](https://www.isaca.org/credentialing/cism)
 [![Certified in the Governance of Enterprise IT (CGEIT)](https://img.shields.io/badge/CGEIT-Certified-FF6F20?style=flat&logo=isaca)](https://www.isaca.org/credentialing/cgeit)
+[![Certified Information Privacy Professional (CIPP)](https://img.shields.io/badge/CIPP-Certified-FFB300?style=flat&logo=iapp)](https://iapp.org/certify/cipp/)
+[![Certified Data Scientist (CDS)](https://img.shields.io/badge/CDS-Certified-0072C6?style=flat&logo=data-science)](https://www.datasciencecertification.org/)
+[![Certified Analytics Professional (CAP)](https://img.shields.io/badge/CAP-Certified-0072C6?style=flat&logo=analytics)](https://www.certifiedanalytics.org/)
+[![Certified Information Systems Security Professional (CISSP)](https://img.shields.io/badge/CISSP-Certified-8A2BE2?style=flat&logo=isc2)](https://www.isc2.org/Certifications/CISSP)
+[![Certified Cloud Security Professional (CCSP)](https://img.shields.io/badge/CCSP-Certified-0072C6?style=flat&logo=isc2)](https://www.isc2.org/Certifications/CCSP)
+[![Certified Information Security Manager (CISM)](https://img.shields.io/badge/CISM-Certified-0072C6?style=flat&logo=isaca)](https://www.isaca.org/credentialing/cism)
+[![Certified Information Systems Auditor (CISA)](https://img.shields.io/badge/CISA-Certified-FF9900?style=flat&logo=isaca)](https://www.isaca.org/credentialing/cisa)
+[![Project Management Professional (PMP)](https://img.shields.io/badge/PMP-Certified-0072B1?style=flat&logo=pmi)](https://www.pmi.org/certifications/project-management-pmp)
+[![Certified Business Analysis Professional (CBAP)](https://img.shields.io/badge/CBAP-Certified-FFB300?style=flat&logo=iiba)](https://www.iiba.org/certification/cbap/)
+[![Lean Six Sigma Black Belt (LSSBB)](https://img.shields.io/badge/LSSBB-Certified-00BFFF?style=flat&logo=asq)](https://asq.org/cert/six-sigma-black-belt)
+[![Certified Supply Chain Professional (CSCP)](https://img.shields.io/badge/CSCP-Certified-FF9900?style=flat&logo=apics)](https://www.apics.org/credentials-education/credentials/cscp)
+[![Certified Quality Engineer (CQE)](https://img.shields.io/badge/CQE-Certified-0072C6?style=flat&logo=asq)](https://asq.org/cert/quality-engineer)
+[![Certified Data Management Professional (CDMP)](https://img.shields.io/badge/CDMP-Certified-0072C6?style=flat&logo=dama)](https://www.dama.org/certification/cdmp)
+[![AWS Certified DevOps Engineer - Professional](https://img.shields.io/badge/AWS%20Certified%20DevOps%20Engineer%20-%20Professional-FF9900?style=flat&logo=amazonaws)](https://aws.amazon.com/certification/certified-devops-engineer-professional/)
+[![Microsoft Certified: Azure Data Scientist Associate](https://img.shields.io/badge/Azure%20Data%20Scientist%20Associate-Certified-0078D4?style=flat&logo=microsoft)](https://learn.microsoft.com/en-us/certifications/azure-data-scientist/)
+[![Certified Blockchain Professional (CBP)](https://img.shields.io/badge/CBP-Certified-4B0082?style=flat&logo=blockchain)](https://www.certifiedblockchainprofessional.com/)
+[![Certified in Risk and Information Systems Control (CRISC)](https://img.shields.io/badge/CRISC-Certified-0072C6?style=flat&logo=isaca)](https://www.isaca.org/credentialing/crisc)
 
 <p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://github.com/KOSASIH/quantum-celestia-nexus/tree/main">Quantum Celestia Nexus</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://www.linkedin.com/in/kosasih-81b46b5a">KOSASIH</a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">Creative Commons Attribution 4.0 International<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""></a></p>
 
