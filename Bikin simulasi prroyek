@@ -1,0 +1,16 @@
+Simulasi Sirkuit Kuantum menggunakan pustaka seperti Qiskit.
+
+
+2. Jaringan Saraf Tingkat Lanjut (Deep Neural Network - DNN) dengan Quantum Layer.
+
+
+3. Protokol Komunikasi Kuantum yang menggunakan prinsip enkripsi kuantum.
+
+
+4. Analisis Data Waktu Nyata.
+
+
+
+Sebelum kita mulai, pastikan Anda telah menginstal pustaka yang diperlukan:
+
+pip install qiskit tensorflow numpy
