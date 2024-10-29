@@ -67,6 +67,33 @@
 [![Certified Blockchain Professional (CBP)](https://img.shields.io/badge/CBP-Certified-4B0082?style=flat&logo=blockchain)](https://www.certifiedblockchainprofessional.com/)
 [![Certified in Risk and Information Systems Control (CRISC)](https://img.shields.io/badge/CRISC-Certified-0072C6?style=flat&logo=isaca)](https://www.isaca.org/credentialing/crisc)
 
+[![UN Sustainable Development Goals (SDGs)](https://img.shields.io/badge/UN%20SDGs-Global%20Goals-00A859?style=flat&logo=un)](https://sdgs.un.org/goals)
+[![UNESCO World Heritage Site](https://img.shields.io/badge/UNESCO%20World%20Heritage%20Site-UNESCO-FFCC00?style=flat&logo=unesco)](https://whc.unesco.org/en/list/)
+[![UNICEF Certified Child Protection](https://img.shields.io/badge/UNICEF%20Child%20Protection-Certified-FF6F20?style=flat&logo=unicef)](https://www.unicef.org/)
+[![WHO Global Health Certification](https://img.shields.io/badge/WHO%20Global%20Health-Certified-0072C6?style=flat&logo=who)](https://www.who.int/)
+[![FAO Food Safety Certification](https://img.shields.io/badge/FAO%20Food%20Safety-Certified-FF9900?style=flat&logo=fao)](https://www.fao.org/)
+[![ILO International Labour Standards](https://img.shields.io/badge/ILO%20Labour%20Standards-Certified-0072C6?style=flat&logo=ilo)](https://www.ilo.org/global/standards/lang--en/index.htm)
+[![UN Global Compact](https://img.shields.io/badge/UN%20Global%20Compact-Participating-0072C6?style=flat&logo=un)](https://www.unglobalcompact.org/)
+[![UN Environment Programme (UNEP)](https://img.shields.io/badge/UNEP-Environment-00BFFF?style=flat&logo=un)](https://www.unep.org/)
+[![UN Women Gender Equality Certification](https://img.shields.io/badge/UN%20Women-Gender%20Equality-FF6F20?style=flat&logo=unwomen)](https://www.unwomen.org/)
+[![UNESCO Global Geoparks](https://img.shields.io/badge/UNESCO%20Global%20Geoparks-Certified-FFCC00?style=flat&logo=unesco)](https://en.unesco.org/global-geoparks)
+[![UNICEF Innovation](https://img.shields.io/badge/UNICEF%20Innovation-Certified-FF6F20?style=flat&logo=unicef)](https://www.unicef.org/innovation)
+[![WFP Food Security Certification](https://img.shields.io/badge/WFP%20Food%20Security-Certified-FF9900?style=flat&logo=wfp)](https://www.wfp.org/)
+[![UNESCO International Biosphere Reserves](https://img.shields.io/badge/UNESCO%20Biosphere%20Reserves-Certified-FFCC00?style=flat&logo=unesco)](https://en.unesco.org/biosphere)
+[![UNESCO Creative Cities](https://img.shields.io/badge/UNESCO%20Creative%20Cities-Certified-FFCC00?style=flat&logo=unesco)](https://en.unesco.org/creative-cities)
+[![UNICEF Child Friendly Cities Initiative](https://img.shields.io/badge/UNICEF%20Child%20Friendly%20Cities-Certified-FF6F20?style=flat&logo=unicef)](https://www.unicef.org/child-friendly-cities)
+[![WHO International Health Regulations](https://img.shields.io/badge/WHO%20IHR-Certified-0072C6?style=flat&logo=who)](https://www.who.int/ihr/)
+[![FAO Sustainable Agriculture Certification](https://img.shields.io/badge/FAO%20Sustainable%20Agriculture-Certified-FF9900?style=flat&logo=fao)](https://www.fao.org/sustainable-agriculture/en/)
+[![UNESCO Memory of the World](https://img.shields.io/badge/UNESCO%20Memory%20of%20the%20World-Certified-FFCC00?style=flat&logo=unesco)](https://en.unesco.org/programme/mow)
+[![UN Environment Programme (UNEP) Green Economy](https://img.shields.io/badge/UNEP%20Green%20Economy-Certified-00BFFF?style=flat&logo=un)](https://www.unep.org/explore-topics/green-economy)
+[![UN Women HeForShe](https://img.shields.io/badge/HeForShe-UN%20Women-FF6F20?style=flat&logo=unwomen)](https://www.heforshe.org/)
+[![UNESCO Global Network of Learning Cities](https://img.shields.io/badge/UNESCO%20Learning%20Cities-Certified-FFCC00?style=flat&logo=unesco)](https://uil.unesco.org/learning-cities)
+[![UNICEF Education Certification](https://img.shields.io/badge/UNICEF%20Education-Certified-FF6F20?style=flat&logo=unicef)](https://www.unicef.org/education)
+[![WFP Zero Hunger Challenge](https://img.shields.io/badge/WFP%20Zero%20Hunger-Certified-FF9900?style=flat&logo=wfp)](https://www.wfp.org/zero-hunger)
+[![UNESCO Global Education Coalition](https://img.shields.io/badge/UNESCO%20Global%20Education%20Coalition-Certified-FFCC00?style=flat&logo=unesco)](https://en.unesco.org/covid19/educationresponse/globaleducationcoalition)
+[![WHO Framework Convention on Tobacco Control](https://img.shields.io/badge/WHO%20FCTC-Certified-0072C6?style=flat&logo=who)](https://www.who.int/fctc/)
+[![UNICEF Innovation Lab](https://img.shields.io/badge/UNICEF%20Innovation%20Lab-Certified-FF6F20?style=flat&logo=unicef)](https://www.unicef.org/innovation/labs)
+
 <p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://github.com/KOSASIH/quantum-celestia-nexus/tree/main">Quantum Celestia Nexus</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://www.linkedin.com/in/kosasih-81b46b5a">KOSASIH</a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">Creative Commons Attribution 4.0 International<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""></a></p>
 
 # quantum-celestia-nexus
