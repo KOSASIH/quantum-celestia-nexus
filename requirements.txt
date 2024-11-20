@@ -1,7 +1,7 @@
 # Core Libraries
 numpy==1.23.5               # For numerical operations
 pandas==1.5.3               # For data manipulation and analysis
-scikit-learn==1.2.0         # For machine learning algorithms
+scikit-learn==1.5.0         # For machine learning algorithms
 scipy==1.9.3                # For scientific computing
 
 # AI and Machine Learning
