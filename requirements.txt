@@ -5,7 +5,7 @@ scikit-learn==1.2.0         # For machine learning algorithms
 scipy==1.9.3                # For scientific computing
 
 # AI and Machine Learning
-tensorflow==2.11.0          # For deep learning (if using TensorFlow)
+tensorflow==2.12.1          # For deep learning (if using TensorFlow)
 torch==1.13.0               # For deep learning (if using PyTorch)
 joblib==1.2.0               # For saving and loading models
 
