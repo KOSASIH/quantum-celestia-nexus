@@ -10,7 +10,7 @@ torch==1.13.0               # For deep learning (if using PyTorch)
 joblib==1.2.0               # For saving and loading models
 
 # Quantum Computing
-qiskit==0.39.1              # For quantum computing simulations and algorithms
+qiskit==1.4.2              # For quantum computing simulations and algorithms
 pennylane==0.24.0           # For quantum machine learning
 
 # Secure Communication
